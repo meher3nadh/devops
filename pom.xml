@@ -156,7 +156,12 @@
 
 
 		</dependencies>
-
+<distributionManagement>
+  <repository>
+    <id>Trindh</id>
+    <url>http://192.168.0.103:8081/nexus/content/repositories/Trindh</url>
+  </repository>
+</distributionManagement>
     <build>
         <plugins>
             <plugin>
