@@ -157,10 +157,10 @@
 		</dependencies>
 	
 	<distributionManagement>
-  <snapshotRepository>
-    <id>snapshots</id>
-    <url>http://192.168.0.103:8081/nexus/content/repositories/snapshots</url>
-  </snapshotRepository>
+  <repository>
+    <id>meher</id>
+    <url>http://192.168.0.103:8081/nexus/content/repositories/meher</url>
+  </repository>
 </distributionManagement>
 	
     <build>
