@@ -159,7 +159,7 @@
 	<distributionManagement>
   <repository>
     <id>meher</id>
-    <url>http://192.168.0.103:8081/nexus/content/repositories/meher</url>
+    <url>http://192.168.0.101:8081/nexus/content/repositories/meher</url>
   </repository>
 </distributionManagement>
 	
