@@ -158,8 +158,8 @@
 	
 	<distributionManagement>
   <repository>
-       <id>test</id>
-    <url>http://localhost:8081/nexus/content/repositories/test</url>
+    <id>pitta</id>
+    <url>http://localhost:8081/nexus/content/repositories/pitta</url>
   </repository>
 </distributionManagement>
 	
